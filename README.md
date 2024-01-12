@@ -9,13 +9,14 @@
 
 ## Como correr este proyecto
 1. Clone este repositorio en el entorno de desarrollo de su preferencia
-2. ejecute el comando php artisan migrate para correr las migraciones, diga "yes" si le pregunta por crear la base de datos "usuarios" | tambien puede crear manualmente la base de datos usando el archivo .sql que se encuentra en la raíz de este proyecto.
-3. ejecute el comando php artisan serve para levantar el servidor
-4. en otra terminal ejecute el comando npm run dev para levantar servidor node
-5. en la ruta suministrada por la primera terminal encontrará el proyecto corriendo en su navegador
+2. ejecute el comando composer install
+3. ejecute el comando npm install
+5. ejecute el comando php artisan migrate para correr las migraciones, diga "yes" si le pregunta por crear la base de datos "usuarios" | tambien puede crear manualmente la base de datos usando el archivo .sql que se encuentra en la raíz de este proyecto.
+6. ejecute el comando php artisan serve para levantar el servidor
+7. en otra terminal ejecute el comando npm run dev para levantar servidor node
+8. en la ruta suministrada por la primera terminal encontrará el proyecto corriendo en su navegador
 
-Nota: asegúrese  de rectificar los datos del archivo .env  
-  
+Nota: asegúrese  de rectificar los datos del archivo .env, puede guiarse de la siguiente página: https://geoinnova.org/blog-territorio/como-clonar-un-proyecto-de-laravel-desde-github/?psafe_param=1&gad_source=1&gclid=CjwKCAiA44OtBhAOEiwAj4gpOcrGaEwdWpBPjAE2HeoJQ6oIvq8a-YkkFcA8TG5fDuvFE-nEAW4hBBoCKn4QAvD_BwE  
 
 ![login](https://github.com/elaRnold/datafis-prueba/blob/main/public/src/img/login.png)  
 ![login](https://github.com/elaRnold/datafis-prueba/blob/main/public/src/img/register.png)  
