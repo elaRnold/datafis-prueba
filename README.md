@@ -14,4 +14,9 @@
 4. en otra terminal ejecute el comando npm run dev para levantar servidor node
 5. en la ruta suministrada por la primera terminal encontrará el proyecto corriendo en su navegador
 
-Nota: asegúrese  de rectificar los datos del archivo .env
+Nota: asegúrese  de rectificar los datos del archivo .env  
+  
+
+![login](https://github.com/elaRnold/datafis-prueba/blob/main/public/src/img/login.png)  
+![login](https://github.com/elaRnold/datafis-prueba/blob/main/public/src/img/register.png)  
+![login](https://github.com/elaRnold/datafis-prueba/blob/main/public/src/img/home.png)
